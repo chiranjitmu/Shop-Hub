@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Designed tshirt",
+    "images": "https://img.freepik.com/free-photo/graphic-shirt-trendy-design-mockup_460848-12971.jpg?w=740&t=st=1701261203~exp=1701261803~hmac=f60892cd408d214855d242a01c4890e0df5024ae2aafe3eb9ed7e17bd331e190",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "title": "Pink sweater",
+    "images": "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?w=996&t=st=1701261227~exp=1701261827~hmac=6140f699896cece2afc09e4801f33a3b99c95fc02160347ea104e3bb553128b5",
+    "price": 499
+  },
+  {
+    "id": 3,
+    "title": "Designed tshirt",
+    "images": "https://img.freepik.com/free-photo/graphic-tshirt-trendy-design-mockup-presented-wooden-hanger-with-sapce-your-test_460848-14315.jpg?w=740&t=st=1701261277~exp=1701261877~hmac=bca14e0932ee3a62a798eff2875b34e8d34926d8058c9805793d97e5697083a7",
+    "price": 390
+  },
+  {
+    "id": 4,
+    "title": "Green sweater",
+    "images": "https://img.freepik.com/free-photo/green-front-sweater_125540-736.jpg?w=996&t=st=1701261314~exp=1701261914~hmac=52c2db004f4218ef4090d6bba9d21180d033bcb02c26906aa69775f908123bc0",
+    "price": 499
+  }
+]

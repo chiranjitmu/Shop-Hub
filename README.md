@@ -1,10 +1,19 @@
-# React + Vite
+Shop-hub E-commerce App with React Vite and Redux Toolkit Integration
 
 For live App check [LIVE APP](https://shop-hub-chiranjit.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
+Welcome to the Shop-hub E-commerce App repository! This project is an e-commerce application developed as "Shop-hub," integrating Redux Toolkit for state management. The app is built using React with Vite, providing a seamless shopping experience with responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Getting Started
+
+Clone the repository to your local machine:
+git clone https://github.com/chiranjitmu/Shop-Hub.git
+Install dependencies:
+
+Open the app in your web browser to experience the Shop-hub e-commerce app.
+
+Acknowledgments
+
+Thank you for exploring the Shop-hub E-commerce App! If you have any feedback or suggestions, feel free to let me know. Happy shopping!

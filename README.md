@@ -15,7 +15,7 @@ git clone https://github.com/chiranjitmu/Shop-Hub.git
 cd Shop-Hub
 ```
 
-### install node module
+### Install node module
 
 ```bash
 npm install

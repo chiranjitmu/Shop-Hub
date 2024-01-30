@@ -12,6 +12,19 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/chiranjitmu/Shop-Hub.git
+cd Shop-Hub
+```
+
+### install node module
+
+```bash
+npm install
+```
+
+### Run
+
+```bash
+npm run dev
 ```
 
 Open the app in your web browser to experience the Shop-hub e-commerce app.

@@ -218,7 +218,7 @@ function Shop() {
             </div>
           </div>
           <p className="copyright-shop">
-            Copyright &copy; 2023 | All Rights Reserved.
+            Copyright &copy; 2024 | All Rights Reserved.
           </p>
         </section>
       </main>

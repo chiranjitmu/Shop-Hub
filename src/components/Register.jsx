@@ -58,7 +58,7 @@ function Register() {
         </Form>
       </section>
       <p className="copyright-register">
-        Copyright &copy; 2023 | All Rights Reserved.
+        Copyright &copy; 2024 | All Rights Reserved.
       </p>
     </main>
   );

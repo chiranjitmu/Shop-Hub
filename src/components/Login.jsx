@@ -54,7 +54,7 @@ function Login() {
         </Form>
       </section>
       <p className="copyright-login">
-        Copyright &copy; 2023 | All Rights Reserved.
+        Copyright &copy; 2024 | All Rights Reserved.
       </p>
     </main>
   );
